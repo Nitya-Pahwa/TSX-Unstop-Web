@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Quick Assist",
+      "description": "An emergency help app for travelers on highways.",
+      "tech": "HTML, CSS, JS, Flask",
+      "link": "https://github.com/nityapahwa/quick-assist"
+    },
+    {
+      "title": "Amazon Clone",
+      "description": "A responsive clone of Amazon built using only HTML & CSS.",
+      "tech": "HTML, CSS",
+      "link": "https://github.com/nityapahwa/amazon-clone"
+    }
+  ]
+  
